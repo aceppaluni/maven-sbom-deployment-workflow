@@ -502,5 +502,11 @@
     "url": "https://github.com/apache/maven-fluido-skin.git",
     "groupId": "org.apache.maven.skins",
     "artifactId": "maven-fluido-skin"
+  },
+  {
+    "name": "hiero-enterprise-java",
+    "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
+    "groupId": "org.hiero.enterprise",
+    "artifactId": "hiero-enterprise-java"
   }
 ]
