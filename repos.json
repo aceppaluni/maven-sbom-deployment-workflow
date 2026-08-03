@@ -504,21 +504,21 @@
     "artifactId": "maven-fluido-skin"
   },
   {
-  "name": "hiero-enterprise-base",
-  "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
-  "groupId": "org.hiero.enterprise",
-  "artifactId": "hiero-enterprise-base"
+    "name": "hiero-enterprise-base",
+    "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
+    "groupId": "org.hiero.enterprise",
+    "artifactId": "hiero-enterprise-base"
   },
   {
-  "name": "hiero-enterprise-spring",
-  "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
-  "groupId": "org.hiero.enterprise",
-  "artifactId": "hiero-enterprise-spring"
+    "name": "hiero-enterprise-spring",
+    "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
+    "groupId": "org.hiero.enterprise",
+    "artifactId": "hiero-enterprise-spring"
   },
   {
-  "name": "hiero-enterprise-microprofile",
-  "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
-  "groupId": "org.hiero.enterprise",
-  "artifactId": "hiero-enterprise-microprofile"
+    "name": "hiero-enterprise-microprofile",
+    "url": "https://github.com/hiero-ledger/hiero-enterprise-java.git",
+    "groupId": "org.hiero.enterprise",
+    "artifactId": "hiero-enterprise-microprofile"
   }
 ]
