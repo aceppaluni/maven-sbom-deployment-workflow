@@ -612,6 +612,7 @@
     "name": "hiero-sdk-python",
     "ecosystem": "pypi",
     "url": "https://github.com/hiero-ledger/hiero-sdk-python.git",
-    "packageName": "hiero-sdk-python"
+    "packageName": "hiero-sdk-python",
+    "artifactId": "hiero-sdk-python"
   }
 ]
