@@ -168,8 +168,6 @@ jobs:
 
           elif [ "$ecosystem" = "pypi" ]; then
 
-                      elif [ "$ecosystem" = "pypi" ]; then
-
             echo "PyPI ecosystem detected for $artifactId"
 
             # Get the latest version from PyPI
